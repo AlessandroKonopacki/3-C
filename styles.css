@@ -111,11 +111,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/rock.png');
-    background-size: cover;
-    padding: 4rem 0;
-    /* Espaçamento interno para a seção de contato */
-
+    background-color: #3a3a3a;
 }
 
 .formulario {
